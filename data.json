@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "name" : "Example 1",
+            "img" : "Example 1",
+            "desc" : "Example 1",
+            "url" : "http..."
+        },
+        { 
+            "name" : "Example 2",
+            "img" : "Example 2",
+            "desc" : "Example 2",
+            "url" : "http...2"
+        },
+        {
+            "name" : "Example 3",
+            "img" : "Example 3",
+            "desc" : "Example 3",
+            "url" : "http...3"
+        }
+    ]
+}
