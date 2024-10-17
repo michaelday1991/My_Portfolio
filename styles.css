@@ -5,3 +5,8 @@ nav {
   font-weight: 600;
   font-style:  normal;
 }
+
+.project img {
+  max-width: 300px;
+  height: auto;
+}
