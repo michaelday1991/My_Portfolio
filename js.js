@@ -6,11 +6,14 @@ fetch('data.json')
         data.projects.forEach(project => {
             container.innerHTML += `
             <div class= 'project'>
-                <h3>${project.name}</h3>
+                <br></br>
+                <h3 class= 'text-2xl underline font-medium'>${project.name}</h3>
+                <br></br>
                 <img src='${project.img}' alt="Picture of a website" />
+                <br></br>
                 <p class= 'Description'>${project.desc}</p>
-                <a href='${project.url}' target=_blank> Check the GitHub Link </a> 
+                <br></br>
+                <a class='text-red-500' href='${project.url}' target=_blank> Check the GitHub Link </a> 
                 </div>`;
         });
 })
-.catch(error => console.error('Error fetching data:', error));
