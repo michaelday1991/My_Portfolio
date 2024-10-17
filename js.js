@@ -9,6 +9,7 @@ fetch('data.json')
                 <h3>${project.name}</h3>
                 <img src='${project.img}' alt="Picture of a website" />
                 <p class= 'Description'>${project.desc}</p>
+                <a href='${project.url}' target=_blank> Check the GitHub Link </a> 
                 </div>`;
         });
 })

@@ -4,19 +4,19 @@
             "name" : "This Portfolio Website",
             "img" : "Images/Website screenshot.png",
             "desc" : "This is the first multipage site i've ever made. It combines elements of HTML, CSS (& Tailwind), Javascript & JSON files.",
-            "url" : "http..."
+            "url" : "https://github.com/michaelday1991/My_Portfolio"
         },
         { 
             "name" : "Example project #2",
-            "img" : "Example 2",
-            "desc" : "Example 2",
-            "url" : "http...2"
+            "img" : "Images/example_ss_2.png",
+            "desc" : "*Placeholder* This is a screenshot of someone elses website",
+            "url" : "https://www.awwwards.com/sites/treize-grammes"
         },
         {
             "name" : "Example project #3",
-            "img" : "Example 3",
-            "desc" : "Example 3",
-            "url" : "http...3"
+            "img" : "Images/example_ss_3.jpg",
+            "desc" : "*Placeholder* This is a screenshot of someone elses website",
+            "url" : "https://www.hongkiat.com/blog/creative-portolio-designs/"
         }
     ]
 }
